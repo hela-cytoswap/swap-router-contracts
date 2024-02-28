@@ -5,7 +5,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "1.0.3",
+  "version": "1.0.4",
   "homepage": "https://cytoswap.com",
   "keywords": [
     "cytoswap",
@@ -29,7 +29,7 @@
   },
   "dependencies": {
     "@cytoswap/v3-core": "^1.0.2",
-    "@cytoswap/v3-periphery": "^1.4.8",
+    "@cytoswap/v3-periphery": "^1.4.9",
     "@openzeppelin/contracts": "3.4.2-solc-0.7",
     "@uniswap/v2-core": "^1.0.1",
     "dotenv": "^14.2.0",
